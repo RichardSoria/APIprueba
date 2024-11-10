@@ -1,5 +1,2 @@
-source: .
-destination: ./_site
-
-baseurl: ""
+baseurl: "/APIprueba"
 url: "https://richardsoria.github.io"

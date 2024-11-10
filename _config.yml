@@ -1,2 +1,0 @@
-baseurl: ""  # No debería tener ninguna ruta adicional si el sitio se sirve desde la raíz.
-url: "https://richard-soria.github.io/"  # Asegúrate de usar tu URL real

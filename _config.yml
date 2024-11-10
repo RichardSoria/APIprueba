@@ -1,2 +1,5 @@
+source: .
+destination: ./_site
+
 baseurl: ""
 url: "https://richardsoria.github.io"

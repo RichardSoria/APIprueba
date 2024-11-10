@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header, footer {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.image-container, .character-container, .movie-container, .anime-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    text-align: center;
+}
+
+.image-container img, .character img, .movie img, .anime img {
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+.character h2, .movie h2, .anime h2 {
+    margin-top: 15px;
+    font-size: 24px;
+    color: #333;
+}
+
+.character p, .movie p, .anime p {
+    margin: 5px 0;
+    color: #555;
+}
+
+.movie img {
+    max-height: 515px;
+}

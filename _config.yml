@@ -1,0 +1,2 @@
+baseurl: ""  # No debería tener ninguna ruta adicional si el sitio se sirve desde la raíz.
+url: "https://isaac-valenzuela.github.io/"  # Asegúrate de usar tu URL real

@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #4CAF50;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+}
+h1 {
+    font-size: 34px;
+    margin-bottom: 20px;
+}
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
+.menu {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 200px;
+}
+.menu-item {
+    text-align: center;
+}
+.menu-item button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 16px;
+}
+.menu-item button:hover {
+    background-color: #333333;
+}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>API de Rick y Morty</title>
+    <link rel="stylesheet" href="/css/api.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>¡Descubre un personaje de Rick y Morty!</h1>
+            <button class="btn" id="obtener-personaje"><i class="fas fa-random"></i> Otro personaje</button>
+        </header>
+        <main>
+            <div id="resultado" class="character-container"></div>
+        </main>
+        <footer>
+            <button class="btn" onclick="window.location.href='menu.html'">Regresar al menú</button>
+        </footer>
+    </div>
+    
+    <script type="module" src="/js/api2.js"></script>
+</body>
+</html>

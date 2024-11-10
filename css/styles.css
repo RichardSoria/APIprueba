@@ -55,14 +55,9 @@ button {
     margin-bottom: 20px;
 }
 
-.google-button {
-    background-color: #4285F4;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 20px;
-    cursor: pointer;
+
+.buttons_login{
+    display: block;
+    margin-left: auto;
+    margin-left: auto;
 }

@@ -39,7 +39,7 @@ window.onload = function() {
     initializeForm();
 
     google.accounts.id.initialize({
-        client_id: "193073252936-vbvttpmv0llent1msrkl2cgba9hhji41.apps.googleusercontent.com",
+        client_id: "19458925296-8jismcqp114fl0g94ifh12lgivksu5im.apps.googleusercontent.com",
         callback: handleCredentialResponse
     });
     google.accounts.id.renderButton(

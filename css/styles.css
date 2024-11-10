@@ -56,3 +56,9 @@ button {
     width: 100%;
     margin-bottom: 20px;
 }
+
+.S9gUrf-YoZ4jf {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;    /* Centra verticalmente */
+}
